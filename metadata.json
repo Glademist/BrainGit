@@ -1,0 +1,5 @@
+{
+  "name": "BrainGit",
+  "description": "A VS Code-style personal note-taking app with Git versioning, Markdown support, and reminders.",
+  "requestFramePermissions": []
+}

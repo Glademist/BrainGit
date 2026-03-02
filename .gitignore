@@ -1,0 +1,5 @@
+# BrainGit Data
+/data
+node_modules
+dist
+.env
